@@ -742,33 +742,48 @@ This project covers the following areas:
 
 
 
-<p align="center">
+<table align="center" cellspacing="0" cellpadding="2">
+<tr>
 
-<a href="https://www.linkedin.com/in/mihaela-koseva-software-engineer">
-<img height="65" src="https://img.shields.io/badge/LINKEDIN-0A84FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<td>
+<a href="https://www.linkedin.com/in/mihaela-koseva-software-engineer" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20LINKEDIN.png" height="130">
 </a>
+</td>
 
-<a href="https://github.com/Dreamerol">
-<img height="65" src="https://img.shields.io/badge/GITHUB-00C2FF?style=for-the-badge&logo=github&logoColor=white"/>
+<td>
+<a href="https://github.com/Dreamerol" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20GITHUB.png" height="130">
 </a>
+</td>
 
-<a href="https://github.com/Dreamerol/PORTFOLIO">
-<img height="65" src="https://img.shields.io/badge/PORTFOLIO-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+<td>
+<a href="https://github.com/Dreamerol/PORTFOLIO" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20PORTFOLIO.png" height="130">
 </a>
+</td>
 
-<a href="https://github.com/Dreamerol/CARDFOLIO">
-<img height="65" src="https://img.shields.io/badge/REPOS-0891B2?style=for-the-badge&logo=github&logoColor=white"/>
+<td>
+<a href="https://github.com/Dreamerol/CARDFOLIO" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20REPOSITORIES.png" height="130">
 </a>
+</td>
 
-<a href="https://github.com/Dreamerol/ALLSTATS">
-<img height="65" src="https://img.shields.io/badge/STATS-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
+<td>
+<a href="https://github.com/Dreamerol/ALLSTATS" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20STATS.png" height="130">
 </a>
+</td>
 
-<a href="https://github.com/Dreamerol/RESUME">
-<img height="65" src="https://img.shields.io/badge/RESUME-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+<td>
+<a href="https://github.com/Dreamerol/RESUME" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20RESUME.png" height="130">
 </a>
+</td>
 
-</p>
+</tr>
+</table>
+
 
 
 
