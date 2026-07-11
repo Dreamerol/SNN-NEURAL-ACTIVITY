@@ -10,30 +10,39 @@
 
 </div>
 
----
+
+
+<br>
+
+
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/SNN-7B61FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/AI-00C2FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/Neuroscience-9D4EDD?style=for-the-badge">
-<img src="https://img.shields.io/badge/HH-C9A227?style=for-the-badge">
-<img src="https://img.shields.io/badge/Izhikevich-4F8CFF?style=for-the-badge">
-<img src="https://img.shields.io/badge/ActionPotential-FFB703?style=for-the-badge">
-<img src="https://img.shields.io/badge/Neuromorphic-00BFA6?style=for-the-badge">
-<img src="https://img.shields.io/badge/EulerMethod-8A2BE2?style=for-the-badge">
-<img src="https://img.shields.io/badge/DifferentialSystems-5E60CE?style=for-the-badge">
-<img src="https://img.shields.io/badge/NeuronDynamics-00A6FB?style=for-the-badge">
-<img src="https://img.shields.io/badge/SpikeEncoding-D4AF37?style=for-the-badge">
-<img src="https://img.shields.io/badge/SpikeDecoding-3A86FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/NeuralCoding-FDCB6E?style=for-the-badge">
-<img src="https://img.shields.io/badge/BrainSimulation-06D6A0?style=for-the-badge">
+<img src="https://img.shields.io/badge/SNN-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/AI-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/Neuroscience-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/HH-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Izhikevich-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/ActionPotential-yellow?style=for-the-badge">
+<img src="https://img.shields.io/badge/Neuromorphic-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/EulerMethod-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/DifferentialSystems-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/NeuronDynamics-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/SpikeEncoding-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/SpikeDecoding-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/NeuralCoding-yellow?style=for-the-badge">
+<img src="https://img.shields.io/badge/BrainSimulation-brightgreen?style=for-the-badge">
 
 </p>
 
+
 </div>
 
+
+
 <br>
+
+
 
 # Introduction
 
@@ -138,6 +147,7 @@ v \leftarrow c,\qquad u \leftarrow u + d
 $$
 
 
+<br>
 
 
 <p align="center">
@@ -159,6 +169,12 @@ $$
 
 </p>
 
+
+</div>
+
+
+
+<br>
 
 
 ## Hodgkin–Huxley Model Parameters
