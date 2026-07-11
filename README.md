@@ -672,7 +672,7 @@ Author: Mihaela Koseva (Михаела Косева) • SNN • Spiking Neural 
 
 
 <br>
-<br>
+<br><br>
 
 
 
