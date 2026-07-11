@@ -8,85 +8,48 @@ The project also investigates different neuron firing patterns, analyzes the cha
 
 ## Hodgkin–Huxley Model
 
-The Hodgkin–Huxley model describes the membrane potential dynamics using four state variables: the membrane potential ($V$) and the gating variables ($m$, $h$, and $n$).
-
-### Membrane Potential
+The membrane potential is governed by
 
 $$
-C_m \frac{dV}{dt}
-=
-I_{\mathrm{ext}}
--
-\bar{g}_{\mathrm{Na}} m^3 h (V - E_{\mathrm{Na}})
--
-\bar{g}_{\mathrm{K}} n^4 (V - E_{\mathrm{K}})
--
-g_{\mathrm{L}} (V - E_{\mathrm{L}})
+C_m \frac{dV}{dt} = I_{\mathrm{ext}} - \bar{g}_{\mathrm{Na}} m^3 h (V - E_{\mathrm{Na}}) - \bar{g}_{\mathrm{K}} n^4 (V - E_{\mathrm{K}}) - g_{\mathrm{L}} (V - E_{\mathrm{L}})
 $$
 
-### Sodium Activation ($m$)
+The gating variables evolve according to
 
 $$
-\frac{dm}{dt}
-=
-\alpha_m(V)(1-m)-\beta_m(V)m
+\frac{dm}{dt} = \alpha_m(V)(1-m) - \beta_m(V)m
+$$
+
+$$
+\frac{dh}{dt} = \alpha_h(V)(1-h) - \beta_h(V)h
+$$
+
+$$
+\frac{dn}{dt} = \alpha_n(V)(1-n) - \beta_n(V)n
 $$
 
 where
 
 $$
-\alpha_m(V)
-=
-\frac{0.1(25-V)}
-{\exp\!\left(\frac{25-V}{10}\right)-1},
-\qquad
-\beta_m(V)
-=
-4\exp\!\left(-\frac{V}{18}\right).
+\alpha_m(V)=\frac{0.1(25-V)}{\exp\left(\frac{25-V}{10}\right)-1}
 $$
 
-### Sodium Inactivation ($h$)
-
 $$
-\frac{dh}{dt}
-=
-\alpha_h(V)(1-h)-\beta_h(V)h
+\beta_m(V)=4\exp\left(-\frac{V}{18}\right)
 $$
 
-where
-
 $$
-\alpha_h(V)
-=
-0.07\exp\!\left(-\frac{V}{20}\right),
-\qquad
-\beta_h(V)
-=
-\frac{1}
-{\exp\!\left(\frac{30-V}{10}\right)+1}.
+\alpha_h(V)=0.07\exp\left(-\frac{V}{20}\right)
 $$
 
-### Potassium Activation ($n$)
-
 $$
-\frac{dn}{dt}
-=
-\alpha_n(V)(1-n)-\beta_n(V)n
+\beta_h(V)=\frac{1}{\exp\left(\frac{30-V}{10}\right)+1}
 $$
 
-where
-
 $$
-\alpha_n(V)
-=
-\frac{0.01(10-V)}
-{\exp\!\left(\frac{10-V}{10}\right)-1},
-\qquad
-\beta_n(V)
-=
-0.125\exp\!\left(-\frac{V}{80}\right).
+\alpha_n(V)=\frac{0.01(10-V)}{\exp\left(\frac{10-V}{10}\right)-1}
 $$
 
-
-
-
+$$
+\beta_n(V)=0.125\exp\left(-\frac{V}{80}\right)
+$$
