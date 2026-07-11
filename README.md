@@ -188,6 +188,7 @@ $$
 <br>
 
 
+
 ### Spike Reset
 
 When the membrane potential reaches the spike threshold,
@@ -195,6 +196,7 @@ When the membrane potential reaches the spike threshold,
 
 
 <br>
+
 
 
 $$
@@ -241,6 +243,8 @@ $$
 
 
 
+
+
 <br>
 
 
@@ -261,7 +265,11 @@ $$
 | $h$    | Sodium ($\mathrm{Na}^+$) inactivation gating variable |
 | $n$    | Potassium ($\mathrm{K}^+$) activation gating variable |
 
+
+
+
 <br>
+
 
 ### Electrical Parameters
 
@@ -321,6 +329,8 @@ The functions $\alpha_m(V)$, $\beta_m(V)$, $\alpha_h(V)$, $\beta_h(V)$, $\alpha_
 
 
 <br>
+
+
 
 
 ### Parameters
@@ -427,7 +437,10 @@ The firing behavior of Izhikevich neurons is controlled by the parameters $a$, $
 | **Chattering (CH)**             | 0.02 | 0.2 | -50 | 2   |
 
 
+
+
 <br>
+
 
 
 These parameters define how quickly the recovery variable changes ($a$, $b$), how the membrane potential resets after a spike ($c$), and how much the recovery variable is increased after a spike ($d$).
@@ -444,27 +457,50 @@ The Euler method is used to numerically solve the Izhikevich differential equati
 
 In this project, a spike encoding and decoding algorithm is used to transform continuous signals into spike-based representations and reconstruct the original information. As an example, the target function is:
 
+
+<br>
+
+
 $$
 f(x)=x^2
 $$
+
+<br>
+
 
 ### Normalization
 
 First, the input data is normalized to a suitable range for the neural system:
 
+<br>
+
+
 $$
 x_{norm}=\frac{x-x_{min}}{x_{max}-x_{min}}
 $$
+
+<br>
+
 
 ### Spike Encoding
 
 The normalized input is transformed into a firing frequency range between a minimum and maximum frequency:
 
+
+<br>
+
+
 $$
 \alpha(x)=\alpha_{min}+x_{norm}(\alpha_{max}-\alpha_{min})
 $$
 
+<br>
+
 where:
+
+
+<br>
+
 
 * $\alpha(x)$ is the generated firing frequency of the neuron.
 * $\alpha_{min}$ is the minimum firing frequency.
@@ -473,9 +509,16 @@ where:
 
 The generated frequency represents the number of spikes produced by the neuron during the current time interval. The spike contribution from each event is calculated using an exponential kernel:
 
+<br>
+
+
 $$
 S(t)=e^{-\frac{|t-t_i|}{\tilde{t}}}W
 $$
+
+
+<br>
+
 
 where:
 
@@ -483,30 +526,57 @@ where:
 * $t_i$ is the spike time.
 * $\tilde{t}$ is the time constant.
 * $W$ is the synaptic weight of the connection.
+  
+
+  <br>
+  
 
 ### Spike Decoding
 
 After processing through the SNN, the output spike frequency is converted back into a continuous value using the inverse frequency mapping:
 
+<br>
+
+
 $$
 x_{decoded}=\frac{\alpha-\alpha_{min}}{\alpha_{max}-\alpha_{min}}
 $$
 
+<br>
+
+
 The output is then transformed back to the original range:
+
+<br>
+
 
 $$
 y_{out}=x_{decoded}(y_{max}-y_{min})+y_{min}
 $$
 
+
+<br>
+
+
 ### Error Calculation
 
 The reconstructed output is compared with the desired function using Mean Squared Error:
+
+<br>
+
 
 $$
 MSE=\frac{1}{N}\sum_{i=1}^{N}(y_i-\hat{y_i})^2
 $$
 
+<br>
+
+
 where $y_i$ is the desired output and $\hat{y_i}$ is the reconstructed SNN output.
+
+
+<br>
+
 
 ## Results and Observations
 
@@ -664,6 +734,7 @@ This project covers the following areas:
 Author: Mihaela Koseva (Михаела Косева) • SNN • Spiking Neural Network • AI • Computational Neuroscience • Hodgkin–Huxley • Izhikevich Model • Action Potential • Spike • Spike Encoding • Spike Decoding • Neural Coding • Neuron Dynamics • Neuron Simulation • Differential Systems • Neuromorphic Computing • Brain Simulation • Machine Learning • Deep Learning • Bio-inspired AI
 </p>
 
+</div>
 
 
 <br>
