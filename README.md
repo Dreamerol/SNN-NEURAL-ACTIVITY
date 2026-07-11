@@ -59,11 +59,19 @@ The project also investigates different neuron firing patterns, analyzes the cha
 The membrane potential is governed by
 
 
+<br>
+
+
 $$
 C_m \frac{dV}{dt} = I_{\mathrm{ext}} - \bar{g}_{\mathrm{Na}} m^3 h (V - E_{\mathrm{Na}}) - \bar{g}_{\mathrm{K}} n^4 (V - E_{\mathrm{K}}) - g_{\mathrm{L}} (V - E_{\mathrm{L}})
 $$
 
+<br>
+
 The gating variables evolve according to
+
+<br>
+
 
 $$
 \frac{dm}{dt} = \alpha_m(V)(1-m) - \beta_m(V)m
@@ -73,11 +81,17 @@ $$
 \frac{dh}{dt} = \alpha_h(V)(1-h) - \beta_h(V)h
 $$
 
+
+<br>
+
+
 ## Results and Observations
 
 The performance of the different Izhikevich neuron types was evaluated using the Mean Squared Error (MSE) loss:
 
+
 <br>
+
 
 | Neuron Type                 | MSE    |
 | --------------------------- | ------ |
@@ -96,10 +110,19 @@ A possible explanation is that chattering neurons generate groups of closely spa
 
 The Low Frequency + Chattering configuration provides a balance between temporal precision and spike efficiency. The lower firing rate prevents unnecessary spike generation, while the chattering behavior preserves important information through burst-based communication. This balance leads to a more accurate reconstruction of the original function and the lowest MSE value.
 
+<br>
+
+
 \frac{dn}{dt} = \alpha_n(V)(1-n) - \beta_n(V)n
 $$
 
+<br>
+
 where
+
+
+<br>
+
 
 $$
 \alpha_m(V)=\frac{0.1(25-V)}{\exp\left(\frac{25-V}{10}\right)-1}
@@ -122,25 +145,43 @@ $$
 $$
 
 
+<br>
+
+
 ## Izhikevich Model
 
 The Izhikevich neuron model combines biological plausibility with computational efficiency.
 
 ### Membrane Potential
 
+<br>
+
 $$
 \frac{dv}{dt} = 0.04v^2 + 5v + 140 - u + I
 $$
 
+<br>
+
+
 ### Recovery Variable
+
+<br>
+
 
 $$
 \frac{du}{dt} = a(bv-u)
 $$
 
+
+<br>
+
 ### Spike Reset
 
 When the membrane potential reaches the spike threshold,
+
+
+<br>
+
 
 $$
 v \ge 30\ \mathrm{mV},
