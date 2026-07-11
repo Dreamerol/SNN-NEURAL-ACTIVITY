@@ -102,6 +102,7 @@ $$
 v \leftarrow c,\qquad u \leftarrow u + d
 $$
 
+
 <p align="center">
 
 <img src="https://img.shields.io/badge/SNN-red?style=for-the-badge">
@@ -182,6 +183,7 @@ Different combinations of the parameters $a$, $b$, $c$, and $d$ produce differen
 $$
 
 The Hodgkin–Huxley (HH) model is more biologically accurate because it simulates ion channels and membrane dynamics, but it is slower and more computationally expensive due to its complexity. The Izhikevich model simplifies neuronal behavior, making it much faster and suitable for large-scale Spiking Neural Networks while still reproducing different firing patterns.
+
 
 <p align="center">
 
@@ -332,6 +334,7 @@ The results show that the **Chattering neuron provides the lowest error among th
 A possible explanation is that chattering neurons generate groups of closely spaced spikes, allowing them to represent detailed temporal information in the input signal. However, using an excessively high firing frequency can negatively affect performance because it may introduce redundant spikes, increase noise in the spike representation, and make decoding less accurate. A very high spike rate does not necessarily contain more useful information and can reduce the efficiency of the encoding process.
 
 The Low Frequency + Chattering configuration provides a balance between temporal precision and spike efficiency. The lower firing rate prevents unnecessary spike generation, while the chattering behavior preserves important information through burst-based communication. This balance leads to a more accurate reconstruction of the original function and the lowest MSE value.
+
 
 
 <p align="center">
