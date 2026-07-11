@@ -307,16 +307,7 @@ The Low Frequency + Chattering configuration provides a balance between temporal
 
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SNN-red?style=flat-square">
-  <img src="https://img.shields.io/badge/AI-purple?style=flat-square">
-  <img src="https://img.shields.io/badge/Neuroscience-green?style=flat-square">
-  <img src="https://img.shields.io/badge/Hodgkin--Huxley-orange?style=flat-square">
-  <img src="https://img.shields.io/badge/Izhikevich-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Action%20Potential-yellow?style=flat-square">
-  <img src="https://img.shields.io/badge/Spike%20Encoding-red?style=flat-square">
-  <img src="https://img.shields.io/badge/Spike%20Decoding-purple?style=flat-square">
-</p>
+
 ---
 
 # 🔍 Keywords and Topics
