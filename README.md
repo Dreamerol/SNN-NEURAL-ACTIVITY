@@ -101,13 +101,13 @@ $$
 \frac{dh}{dt} = \alpha_h(V)(1-h) - \beta_h(V)h
 $$
 
+$$
+\frac{dn}{dt} = \alpha_n(V)(1-n) - \beta_n(V)n  
+$$
 
-
-
-
-
-\frac{dn}{dt} = \alpha_n(V)(1-n) - \beta_n(V)n  ,  where:
-
+$$
+\frac{dm}{dt} = \alpha_m(V)(1-m) - \beta_h(V)m ,  where:
+$$
 
 <br><br>
 
