@@ -1,3 +1,5 @@
+# Neurosconce SNN
+![Action Potential](images/action_potential.png)
 # Introduction
 
 This repository explores computational neuroscience through the implementation and analysis of biologically inspired neuron models and Spiking Neural Networks (SNNs). The project focuses on simulating neuronal dynamics, processing neural action potentials, and studying how information is represented and transmitted through spikes.
