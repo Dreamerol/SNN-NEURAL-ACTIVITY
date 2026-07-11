@@ -427,23 +427,26 @@ This project covers the following areas:
 
   
 
-
 ---
 
 <br>
 
 
-## Repository Tags
+<h2 align="center">Repository Tags</h2>
 
-`SNN` `Spiking Neural Network` `AI` `Neural Network` `Computational Neuroscience` `Hodgkin-Huxley` `Izhikevich Model` `Action Potential` `Neuron Simulation` `Spike Encoding` `Spike Decoding` `Neuromorphic Computing` `Artificial Intelligence` `Machine Learning` `Brain Simulation`
+<p align="center">
+SNN • Spiking Neural Network • AI • Neural Network • Computational Neuroscience • Hodgkin-Huxley • Izhikevich Model • Action Potential • Neuron Simulation • Spike Encoding • Spike Decoding • Neuromorphic Computing • Artificial Intelligence • Machine Learning • Brain Simulation
+</p>
 
+<br>
 
+<p align="center">
+Author: Mihaela Koseva (Михаела Косева)
+</p>
 
 
 <br>
 <br>
-
-
 <br>
 
 
