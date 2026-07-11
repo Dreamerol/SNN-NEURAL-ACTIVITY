@@ -115,9 +115,7 @@ The Low Frequency + Chattering configuration provides a balance between temporal
 <br>
 
 
-\frac{dn}{dt} = \alpha_n(V)(1-n) - \beta_n(V)n
-
-where
+\frac{dn}{dt} = \alpha_n(V)(1-n) - \beta_n(V)n  ,  where:
 
 
 
