@@ -6,6 +6,25 @@ The repository includes implementations of the **Hodgkin–Huxley (HH)** and **I
 
 The project also investigates different neuron firing patterns, analyzes the characteristics of generated action potentials, and demonstrates how SNNs can process spike-based information. Together, these components provide a foundation for studying neural computation, biologically plausible learning, and neural signal processing.
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/SNN-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/AI-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/Neuroscience-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/HH-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Izhikevich-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/ActionPotential-yellow?style=for-the-badge">
+<img src="https://img.shields.io/badge/Neuromorphic-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/EulerMethod-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/DifferentialSystems-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/NeuronDynamics-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/SpikeEncoding-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/SpikeDecoding-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/NeuralCoding-yellow?style=for-the-badge">
+<img src="https://img.shields.io/badge/BrainSimulation-brightgreen?style=for-the-badge">
+
+</p>
+
 ## Hodgkin–Huxley Model
 
 The membrane potential is governed by
@@ -161,6 +180,25 @@ $$
 
 The Hodgkin–Huxley (HH) model is more biologically accurate because it simulates ion channels and membrane dynamics, but it is slower and more computationally expensive due to its complexity. The Izhikevich model simplifies neuronal behavior, making it much faster and suitable for large-scale Spiking Neural Networks while still reproducing different firing patterns.
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/SNN-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/AI-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/Neuroscience-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/HH-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Izhikevich-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/ActionPotential-yellow?style=for-the-badge">
+<img src="https://img.shields.io/badge/Neuromorphic-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/EulerMethod-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/DifferentialSystems-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/NeuronDynamics-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/SpikeEncoding-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/SpikeDecoding-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/NeuralCoding-yellow?style=for-the-badge">
+<img src="https://img.shields.io/badge/BrainSimulation-brightgreen?style=for-the-badge">
+
+</p>
+
 ## Action Potential
 
 An action potential is a rapid change in the membrane potential of a neuron that allows it to transmit information through electrical signals. It is generated when the membrane potential reaches a threshold, causing voltage-gated ion channels to open and produce a sequence of voltage changes.
@@ -292,40 +330,6 @@ A possible explanation is that chattering neurons generate groups of closely spa
 
 The Low Frequency + Chattering configuration provides a balance between temporal precision and spike efficiency. The lower firing rate prevents unnecessary spike generation, while the chattering behavior preserves important information through burst-based communication. This balance leads to a more accurate reconstruction of the original function and the lowest MSE value.
 
-# 🧠 Spiking Neural Network Simulation: HH & Izhikevich Models
-# 🧠 Spiking Neural Network Simulation: HH & Izhikevich Models
-
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/SNN-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/AI-purple?style=for-the-badge">
-<img src="https://img.shields.io/badge/Neuroscience-green?style=for-the-badge">
-<img src="https://img.shields.io/badge/HH-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/Izhikevich-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/ActionPotential-yellow?style=for-the-badge">
-<img src="https://img.shields.io/badge/Neuromorphic-brightgreen?style=for-the-badge">
-
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/SNN-red?style=for-the-badge&logo=brain">
-  <img src="https://img.shields.io/badge/AI-purple?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Neuroscience-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/HH-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Izhikevich-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Action%20Potential-yellow?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Neuromorphic-brightgreen?style=for-the-badge">
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/SNN-FF3333?style=for-the-badge&labelColor=FF3333">
-<img src="https://img.shields.io/badge/AI-8A2BE2?style=for-the-badge&labelColor=8A2BE2">
-<img src="https://img.shields.io/badge/Neuroscience-32CD32?style=for-the-badge&labelColor=32CD32">
-<img src="https://img.shields.io/badge/HH-FF8C00?style=for-the-badge&labelColor=FF8C00">
-<img src="https://img.shields.io/badge/Izhikevich-1E90FF?style=for-the-badge&labelColor=1E90FF">
-<img src="https://img.shields.io/badge/Action%20Potential-FFD700?style=for-the-badge&labelColor=FFD700">
-<img src="https://img.shields.io/badge/Neuromorphic-00C853?style=for-the-badge&labelColor=00C853">
-</p>
 
 <p align="center">
 
