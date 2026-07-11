@@ -54,6 +54,10 @@ The repository includes implementations of the **Hodgkin–Huxley (HH)** and **I
 The project also investigates different neuron firing patterns, analyzes the characteristics of generated action potentials, and demonstrates how SNNs can process spike-based information. Together, these components provide a foundation for studying neural computation, biologically plausible learning, and neural signal processing.
 
 
+<br>
+
+
+
 ## Hodgkin–Huxley Model
 
 The membrane potential is governed by
