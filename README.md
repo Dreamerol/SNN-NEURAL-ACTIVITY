@@ -299,15 +299,10 @@ The functions $\alpha_m(V)$, $\beta_m(V)$, $\alpha_h(V)$, $\beta_h(V)$, $\alpha_
 * $\beta_n(V)$ – potassium channel deactivation rate
 
 
-<br>
 
 
+<br><br>
 
----
-
-
-
-<br>
 
 
 
