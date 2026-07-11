@@ -1,5 +1,5 @@
 # Neurosconce SNN
-![Action Potential](Dreamerol/SNN-NEURAL-ACTIVITY/brain.jpg)
+![Action Potential](brain.jpg)
 # Introduction
 
 
