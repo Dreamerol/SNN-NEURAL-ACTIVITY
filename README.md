@@ -273,3 +273,20 @@ MSE=\frac{1}{N}\sum_{i=1}^{N}(y_i-\hat{y_i})^2
 $$
 
 where $y_i$ is the desired output and $\hat{y_i}$ is the reconstructed SNN output.
+
+## Results and Observations
+
+The performance of the different Izhikevich neuron types was evaluated using the Mean Squared Error (MSE) loss:
+
+| Neuron Type                 | MSE    |
+| --------------------------- | ------ |
+| Regular Spiking (RS)        | 1.8344 |
+| Intrinsically Bursting (IB) | 1.8486 |
+| Chattering (CH)             | 1.8198 |
+| Low Frequency + Chattering  | 1.7633 |
+
+The results show that the **Chattering neuron provides the lowest error among the standard neuron types**, achieving better reconstruction accuracy compared to Regular Spiking and Intrinsically Bursting neurons. The combination of **Low Frequency and Chattering behavior achieves the lowest MSE**, indicating that this firing pattern provides the most suitable spike representation for the given task.
+
+A possible explanation is that chattering neurons generate groups of closely spaced spikes, allowing them to represent detailed temporal information in the input signal. However, using an excessively high firing frequency can negatively affect performance because it may introduce redundant spikes, increase noise in the spike representation, and make decoding less accurate. A very high spike rate does not necessarily contain more useful information and can reduce the efficiency of the encoding process.
+
+The Low Frequency + Chattering configuration provides a balance between temporal precision and spike efficiency. The lower firing rate prevents unnecessary spike generation, while the chattering behavior preserves important information through burst-based communication. This balance leads to a more accurate reconstruction of the original function and the lowest MSE value.
