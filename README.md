@@ -742,6 +742,50 @@ This project covers the following areas:
 
 
 
+<p align="center">
+
+<a href="https://www.linkedin.com/in/mihaela-koseva-software-engineer">
+<img height="65" src="https://img.shields.io/badge/LINKEDIN-0A84FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol">
+<img height="65" src="https://img.shields.io/badge/GITHUB-00C2FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/PORTFOLIO">
+<img height="65" src="https://img.shields.io/badge/PORTFOLIO-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/CARDFOLIO">
+<img height="65" src="https://img.shields.io/badge/REPOS-0891B2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/ALLSTATS">
+<img height="65" src="https://img.shields.io/badge/STATS-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/RESUME">
+<img height="65" src="https://img.shields.io/badge/RESUME-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</a>
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <p align="center">
 
