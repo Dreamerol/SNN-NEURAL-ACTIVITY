@@ -17,23 +17,17 @@
 
 
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/SNN-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/AI-purple?style=for-the-badge">
-<img src="https://img.shields.io/badge/Neuroscience-green?style=for-the-badge">
-<img src="https://img.shields.io/badge/HH-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/Izhikevich-blue?style=for-the-badge">
-
-</p>
-
-
-
-
 
 
 
 <p align="center">
+
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
+
 
 <img src="https://img.shields.io/badge/SNN-red?style=for-the-badge">
 <img src="https://img.shields.io/badge/AI-purple?style=for-the-badge">
