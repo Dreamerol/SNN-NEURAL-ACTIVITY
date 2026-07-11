@@ -15,6 +15,8 @@
 <br>
 
 
+---
+
 <p align="center">
 
 <img src="https://img.shields.io/badge/SNN-red?style=for-the-badge">
@@ -147,8 +149,6 @@ $$
 $$
 \alpha_n(V)=\frac{0.01(10-V)}{\exp\left(\frac{10-V}{10}\right)-1}
 $$
-
-
 
 
 
