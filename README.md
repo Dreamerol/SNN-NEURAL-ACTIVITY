@@ -15,7 +15,6 @@
 <br>
 
 
----
 
 <p align="center">
 
@@ -216,6 +215,8 @@ $$
 <br>
 
 
+---
+
 <p align="center">
 
 <img src="https://img.shields.io/badge/SNN-red?style=for-the-badge">
@@ -236,6 +237,7 @@ $$
 
 
 </div>
+
 
 
 
@@ -344,6 +346,10 @@ The Hodgkin–Huxley (HH) model is more biologically accurate because it simulat
 
 <br>
 
+
+
+
+---
 
 <p align="center">
 
@@ -527,6 +533,12 @@ The Low Frequency + Chattering configuration provides a balance between temporal
 
 
 <br>
+
+
+
+
+---
+
 
 
 <p align="center">
