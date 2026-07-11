@@ -290,3 +290,89 @@ The results show that the **Chattering neuron provides the lowest error among th
 A possible explanation is that chattering neurons generate groups of closely spaced spikes, allowing them to represent detailed temporal information in the input signal. However, using an excessively high firing frequency can negatively affect performance because it may introduce redundant spikes, increase noise in the spike representation, and make decoding less accurate. A very high spike rate does not necessarily contain more useful information and can reduce the efficiency of the encoding process.
 
 The Low Frequency + Chattering configuration provides a balance between temporal precision and spike efficiency. The lower firing rate prevents unnecessary spike generation, while the chattering behavior preserves important information through burst-based communication. This balance leads to a more accurate reconstruction of the original function and the lowest MSE value.
+
+# 🧠 Spiking Neural Network Simulation: HH & Izhikevich Models
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![SNN](https://img.shields.io/badge/Spiking%20Neural%20Network-SNN-red)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-AI-purple)
+![Neuroscience](https://img.shields.io/badge/Computational-Neuroscience-green)
+![Neuron Models](https://img.shields.io/badge/Neuron%20Models-HH%20%7C%20Izhikevich-orange)
+![Action Potential](https://img.shields.io/badge/Neural%20Activity-Action%20Potential-yellow)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Enabled-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+---
+
+# 🔍 Keywords and Topics
+
+This project covers the following areas:
+
+## 🧠 Computational Neuroscience
+- Computational Neuroscience
+- Biological Neuron Modeling
+- Neural Dynamics
+- Brain-Inspired Computing
+- Neural Signal Processing
+
+## ⚡ Spiking Neural Networks (SNN)
+- Spiking Neural Network (SNN)
+- SNN Simulation
+- Spike-Based Computing
+- Spike Trains
+- Spike Encoding
+- Spike Decoding
+- Neural Coding
+- Neural Information Processing
+- Neuromorphic Computing
+
+## 🤖 Artificial Intelligence and Machine Learning
+- Artificial Intelligence (AI)
+- Neural Networks (NN)
+- Machine Learning
+- Deep Learning
+- Brain-Inspired Artificial Intelligence
+- Biologically Inspired AI
+
+## 🧬 Neuron Models
+- Hodgkin–Huxley Model (HH Model)
+- Hodgkin Huxley Equation
+- Izhikevich Neuron Model
+- Artificial Neurons
+- Biological Neurons
+- Regular Spiking (RS)
+- Intrinsically Bursting (IB)
+- Chattering Neurons
+
+## ⚡ Neural Activity and Action Potentials
+- Action Potential Simulation
+- Membrane Potential
+- Voltage Gated Ion Channels
+- Sodium Channels ($Na^+$)
+- Potassium Channels ($K^+$)
+- Neuron Firing Patterns
+- Spike Frequency Analysis
+
+## 📊 Mathematical and Computational Methods
+- Differential Equations
+- Nonlinear Systems
+- Euler Method
+- Numerical Simulation
+- Dynamical Systems
+- Mean Squared Error (MSE)
+- Signal Reconstruction
+
+## 🔥 Main Technologies and Concepts
+- Python Neural Simulation
+- Computational Biology
+- Neural Computation
+- Synaptic Weights
+- Frequency Encoding
+- Frequency Decoding
+- Spike-Based Learning
+- Neural Model Comparison
+
+---
+
+## Repository Tags
+
+`SNN` `Spiking Neural Network` `AI` `Neural Network` `Computational Neuroscience` `Hodgkin-Huxley` `Izhikevich Model` `Action Potential` `Neuron Simulation` `Spike Encoding` `Spike Decoding` `Neuromorphic Computing` `Artificial Intelligence` `Machine Learning` `Brain Simulation`
