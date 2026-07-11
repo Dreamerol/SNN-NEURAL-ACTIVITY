@@ -10,6 +10,7 @@ The project also investigates different neuron firing patterns, analyzes the cha
 
 The membrane potential is governed by
 
+
 $$
 C_m \frac{dV}{dt} = I_{\mathrm{ext}} - \bar{g}_{\mathrm{Na}} m^3 h (V - E_{\mathrm{Na}}) - \bar{g}_{\mathrm{K}} n^4 (V - E_{\mathrm{K}}) - g_{\mathrm{L}} (V - E_{\mathrm{L}})
 $$
