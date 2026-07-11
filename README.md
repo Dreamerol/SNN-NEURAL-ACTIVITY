@@ -729,7 +729,7 @@ This project covers the following areas:
 
 
 
-
+---
 
 
 
@@ -760,12 +760,6 @@ Author: Mihaela Koseva (Михаела Косева) • AI Engineer • Softwar
 
 
 <br>
-
-
-
-
----
-
 
 
 
