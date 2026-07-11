@@ -425,7 +425,11 @@ This project covers the following areas:
 - Spike-Based Learning
 - Neural Model Comparison
 
+  
+<br>
+
 ---
+
 
 ## Repository Tags
 
