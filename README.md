@@ -182,3 +182,78 @@ The firing behavior of Izhikevich neurons is controlled by the parameters $a$, $
 
 These parameters define how quickly the recovery variable changes ($a$, $b$), how the membrane potential resets after a spike ($c$), and how much the recovery variable is increased after a spike ($d$).
 
+Spiking Neural Network Implementation
+
+In this project, a one-layer Spiking Neural Network (SNN) is implemented using Izhikevich neuron models. Each neuron is simulated using the Euler numerical method to solve the differential equations that describe the membrane potential and recovery dynamics.
+
+The network receives the external input in the form of an applied current ($I$), which is first passed to the neurons as the initial input signal. After processing the current through the Izhikevich model equations, the neurons update their membrane potential ($v$), which is then used as the information transferred between neurons.
+
+The Euler method is used to numerically solve the Izhikevich differential equations because these nonlinear systems generally cannot be solved analytically. The numerical solution obtained from the differential system represents the dynamic state of the neuron and is used as the activation mechanism of the SNN. Instead of traditional activation functions, the membrane potential evolution and spike generation determine the output behavior of each neuron.
+
+## Spike Encoding and Decoding Algorithm
+
+In this project, a spike encoding and decoding algorithm is used to transform continuous signals into spike-based representations and reconstruct the original information. As an example, the target function is:
+
+$$
+f(x)=x^2
+$$
+
+### Normalization
+
+First, the input data is normalized to a suitable range for the neural system:
+
+$$
+x_{norm}=\frac{x-x_{min}}{x_{max}-x_{min}}
+$$
+
+### Spike Encoding
+
+The normalized input is transformed into a firing frequency range between a minimum and maximum frequency:
+
+$$
+\alpha(x)=\alpha_{min}+x_{norm}(\alpha_{max}-\alpha_{min})
+$$
+
+where:
+
+* $\alpha(x)$ is the generated firing frequency of the neuron.
+* $\alpha_{min}$ is the minimum firing frequency.
+* $\alpha_{max}$ is the maximum firing frequency.
+* $x_{norm}$ is the normalized input value.
+
+The generated frequency represents the number of spikes produced by the neuron during the current time interval. The spike contribution from each event is calculated using an exponential kernel:
+
+$$
+S(t)=e^{-\frac{|t-t_i|}{\tilde{t}}}W
+$$
+
+where:
+
+* $t$ is the current time.
+* $t_i$ is the spike time.
+* $\tilde{t}$ is the time constant.
+* $W$ is the synaptic weight of the connection.
+
+### Spike Decoding
+
+After processing through the SNN, the output spike frequency is converted back into a continuous value using the inverse frequency mapping:
+
+$$
+x_{decoded}=\frac{\alpha-\alpha_{min}}{\alpha_{max}-\alpha_{min}}
+$$
+
+The output is then transformed back to the original range:
+
+$$
+y_{out}=x_{decoded}(y_{max}-y_{min})+y_{min}
+$$
+
+### Error Calculation
+
+The reconstructed output is compared with the desired function using Mean Squared Error:
+
+$$
+MSE=\frac{1}{N}\sum_{i=1}^{N}(y_i-\hat{y_i})^2
+$$
+
+where $y_i$ is the desired output and $\hat{y_i}$ is the reconstructed SNN output.
