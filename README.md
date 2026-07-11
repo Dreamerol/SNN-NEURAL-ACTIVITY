@@ -10,6 +10,28 @@
 
 </div>
 
+---
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/SNN-8A2BE2?style=for-the-badge">
+<img src="https://img.shields.io/badge/AI-6C63FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Neuroscience-00B8D9?style=for-the-badge">
+<img src="https://img.shields.io/badge/Hodgkin--Huxley-D4AF37?style=for-the-badge">
+<img src="https://img.shields.io/badge/Izhikevich-4F8CFF?style=for-the-badge">
+<img src="https://img.shields.io/badge/ActionPotential-F5C542?style=for-the-badge">
+<img src="https://img.shields.io/badge/Neuromorphic-00C2A8?style=for-the-badge">
+<img src="https://img.shields.io/badge/EulerMethod-9D4EDD?style=for-the-badge">
+<img src="https://img.shields.io/badge/DifferentialSystems-6C63FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/NeuronDynamics-00B8D9?style=for-the-badge">
+<img src="https://img.shields.io/badge/SpikeEncoding-D4AF37?style=for-the-badge">
+<img src="https://img.shields.io/badge/SpikeDecoding-4F8CFF?style=for-the-badge">
+<img src="https://img.shields.io/badge/NeuralCoding-F5C542?style=for-the-badge">
+<img src="https://img.shields.io/badge/BrainSimulation-00C2A8?style=for-the-badge">
+
+</p>
+
+</div>
 
 <br>
 
@@ -116,6 +138,8 @@ v \leftarrow c,\qquad u \leftarrow u + d
 $$
 
 
+
+
 <p align="center">
 
 <img src="https://img.shields.io/badge/SNN-red?style=for-the-badge">
@@ -134,6 +158,8 @@ $$
 <img src="https://img.shields.io/badge/BrainSimulation-brightgreen?style=for-the-badge">
 
 </p>
+
+
 
 ## Hodgkin–Huxley Model Parameters
 
