@@ -212,7 +212,7 @@ $$
 <br>
 
 
-<br>
+
 
 
 ---
@@ -298,7 +298,18 @@ The functions $\alpha_m(V)$, $\beta_m(V)$, $\alpha_h(V)$, $\beta_h(V)$, $\alpha_
 * $\alpha_n(V)$ – potassium channel activation rate
 * $\beta_n(V)$ – potassium channel deactivation rate
 
+
+<br>
+
+
+
 ---
+
+
+
+<br>
+
+
 
 ## Izhikevich Model Parameters
 
