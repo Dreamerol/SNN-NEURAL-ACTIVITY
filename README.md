@@ -77,6 +77,7 @@ $$
 
 The performance of the different Izhikevich neuron types was evaluated using the Mean Squared Error (MSE) loss:
 
+<br>
 
 | Neuron Type                 | MSE    |
 | --------------------------- | ------ |
@@ -84,6 +85,9 @@ The performance of the different Izhikevich neuron types was evaluated using the
 | Intrinsically Bursting (IB) | 1.8486 |
 | Chattering (CH)             | 1.8198 |
 | Low Frequency + Chattering  | 1.7633 |
+
+
+<br>
 
 
 The results show that the **Chattering neuron provides the lowest error among the standard neuron types**, achieving better reconstruction accuracy compared to Regular Spiking and Intrinsically Bursting neurons. The combination of **Low Frequency and Chattering behavior achieves the lowest MSE**, indicating that this firing pattern provides the most suitable spike representation for the given task.
@@ -183,6 +187,7 @@ $$
 
 ### State Variables
 
+<br>
 
 | Symbol | Description                                           |
 | ------ | ----------------------------------------------------- |
@@ -191,8 +196,14 @@ $$
 | $h$    | Sodium ($\mathrm{Na}^+$) inactivation gating variable |
 | $n$    | Potassium ($\mathrm{K}^+$) activation gating variable |
 
+<br>
 
 ### Electrical Parameters
+
+
+
+<br>
+
 
 
 | Symbol                  | Description                                        |
@@ -205,6 +216,10 @@ $$
 | $E_{\mathrm{Na}}$       | Sodium reversal potential (mV)                     |
 | $E_{\mathrm{K}}$        | Potassium reversal potential (mV)                  |
 | $E_{\mathrm{L}}$        | Leak reversal potential (mV)                       |
+
+
+<br>
+
 
 
 ### Gating Functions
@@ -225,13 +240,22 @@ The functions $\alpha_m(V)$, $\beta_m(V)$, $\alpha_h(V)$, $\beta_h(V)$, $\alpha_
 ### State Variables
 
 
+<br>
+
+
 | Symbol | Description                                               |
 | ------ | --------------------------------------------------------- |
 | $v$    | Membrane potential (mV)                                   |
 | $u$    | Membrane recovery variable representing recovery currents |
 
 
+<br>
+
+
 ### Parameters
+
+
+<br>
 
 
 | Symbol | Description                                                    |
@@ -241,6 +265,9 @@ The functions $\alpha_m(V)$, $\beta_m(V)$, $\alpha_h(V)$, $\beta_h(V)$, $\alpha_
 | $b$    | Sensitivity of the recovery variable to the membrane potential |
 | $c$    | Membrane potential reset value after a spike                   |
 | $d$    | Recovery variable reset increment after a spike                |
+
+
+<br>
 
 
 Different combinations of the parameters $a$, $b$, $c$, and $d$ produce different neuronal firing patterns, such as regular spiking, fast spiking, intrinsically bursting, chattering, and low-threshold spiking neurons.
@@ -300,11 +327,18 @@ This process allows neurons to encode and transmit information using the timing 
 The firing behavior of Izhikevich neurons is controlled by the parameters $a$, $b$, $c$, and $d$.
 
 
+<br>
+
+
+
 | Neuron Type                     | $a$  | $b$ | $c$ | $d$ |
 | ------------------------------- | ---- | --- | --- | --- |
 | **Regular Spiking (RS)**        | 0.02 | 0.2 | -65 | 8   |
 | **Intrinsically Bursting (IB)** | 0.02 | 0.2 | -55 | 4   |
 | **Chattering (CH)**             | 0.02 | 0.2 | -50 | 2   |
+
+
+<br>
 
 
 These parameters define how quickly the recovery variable changes ($a$, $b$), how the membrane potential resets after a spike ($c$), and how much the recovery variable is increased after a spike ($d$).
@@ -390,12 +424,17 @@ where $y_i$ is the desired output and $\hat{y_i}$ is the reconstructed SNN outpu
 The performance of the different Izhikevich neuron types was evaluated using the Mean Squared Error (MSE) loss:
 
 
+<br>
+
+
 | Neuron Type                 | MSE    |
 | --------------------------- | ------ |
 | Regular Spiking (RS)        | 1.8344 |
 | Intrinsically Bursting (IB) | 1.8486 |
 | Chattering (CH)             | 1.8198 |
 | Low Frequency + Chattering  | 1.7633 |
+
+<br>
 
 
 The results show that the **Chattering neuron provides the lowest error among the standard neuron types**, achieving better reconstruction accuracy compared to Regular Spiking and Intrinsically Bursting neurons. The combination of **Low Frequency and Chattering behavior achieves the lowest MSE**, indicating that this firing pattern provides the most suitable spike representation for the given task.
