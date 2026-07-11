@@ -139,8 +139,6 @@ The functions $\alpha_m(V)$, $\beta_m(V)$, $\alpha_h(V)$, $\beta_h(V)$, $\alpha_
 
 Different combinations of the parameters $a$, $b$, $c$, and $d$ produce different neuronal firing patterns, such as regular spiking, fast spiking, intrinsically bursting, chattering, and low-threshold spiking neurons.
 
-
-\beta_n(V)=0.125\exp\left(-\frac{V}{80}\right)
 $$
 
 
@@ -163,3 +161,24 @@ An action potential is a rapid change in the membrane potential of a neuron that
 * **Return to resting potential:** Ion channels return to their normal state, and the membrane potential stabilizes back to the resting level.
 
 This process allows neurons to encode and transmit information using the timing and frequency of spikes.
+
+## Izhikevich Neuron Types
+
+* **Regular Spiking (RS):** Produces single spikes at regular intervals. This type of neuron shows spike-frequency adaptation, where the firing rate decreases over time during continuous stimulation.
+
+* **Intrinsically Bursting (IB):** Generates bursts of multiple spikes at the beginning of stimulation, followed by slower firing activity. This pattern is common in neurons involved in signal integration.
+
+* **Chattering (CH):** Produces high-frequency bursts of closely spaced spikes. These neurons can generate rhythmic firing patterns and are important for precise temporal coding.
+
+## Izhikevich Neuron Parameters
+
+The firing behavior of Izhikevich neurons is controlled by the parameters $a$, $b$, $c$, and $d$.
+
+| Neuron Type                     | $a$  | $b$ | $c$ | $d$ |
+| ------------------------------- | ---- | --- | --- | --- |
+| **Regular Spiking (RS)**        | 0.02 | 0.2 | -65 | 8   |
+| **Intrinsically Bursting (IB)** | 0.02 | 0.2 | -55 | 4   |
+| **Chattering (CH)**             | 0.02 | 0.2 | -50 | 2   |
+
+These parameters define how quickly the recovery variable changes ($a$, $b$), how the membrane potential resets after a spike ($c$), and how much the recovery variable is increased after a spike ($d$).
+
