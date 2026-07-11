@@ -16,57 +16,8 @@
 
 
 
-<p align="center">
-
-<!-- Tech Stack -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-4D77CF?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
-
-<!-- AI & Neuroscience -->
-<img src="https://img.shields.io/badge/SNN-6C63FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/AI-8A2BE2?style=for-the-badge">
-<img src="https://img.shields.io/badge/Neuroscience-14B8A6?style=for-the-badge">
-<img src="https://img.shields.io/badge/Hodgkin--Huxley-F59E0B?style=for-the-badge">
-<img src="https://img.shields.io/badge/Izhikevich-3B82F6?style=for-the-badge">
-
-<!-- Neural Activity -->
-<img src="https://img.shields.io/badge/Action%20Potential-EAB308?style=for-the-badge">
-<img src="https://img.shields.io/badge/Neuromorphic-10B981?style=for-the-badge">
-<img src="https://img.shields.io/badge/Euler%20Method-6366F1?style=for-the-badge">
-<img src="https://img.shields.io/badge/Differential%20Systems-7C3AED?style=for-the-badge">
-<img src="https://img.shields.io/badge/Neuron%20Dynamics-0D9488?style=for-the-badge">
-<img src="https://img.shields.io/badge/Spike%20Encoding-F97316?style=for-the-badge">
-<img src="https://img.shields.io/badge/Neural%20Coding-FACC15?style=for-the-badge">
-<img src="https://img.shields.io/badge/Brain%20Simulation-22C55E?style=for-the-badge">
-
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <p align="center">
-
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
-
 
 <img src="https://img.shields.io/badge/SNN-red?style=for-the-badge">
 <img src="https://img.shields.io/badge/AI-purple?style=for-the-badge">
@@ -86,7 +37,6 @@
 
 
 </div>
-
 
 
 <br>
@@ -268,6 +218,10 @@ $$
 
 
 ---
+
+
+
+
 
 <p align="center">
 
