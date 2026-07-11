@@ -68,7 +68,9 @@ $$
 
 <br>
 
+
 The gating variables evolve according to
+
 
 <br>
 
@@ -114,14 +116,13 @@ The Low Frequency + Chattering configuration provides a balance between temporal
 
 
 \frac{dn}{dt} = \alpha_n(V)(1-n) - \beta_n(V)n
-$$
-
-<br>
 
 where
 
 
+
 <br>
+
 
 
 $$
