@@ -1,5 +1,5 @@
 # Neurosconce SNN
-![Action Potential](brain.jpg)
+![Action Potential](brainone.jpg)
 # Introduction
 
 
