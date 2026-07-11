@@ -737,16 +737,8 @@ This project covers the following areas:
   <br>
 
 
----
 
-
-  <br>  <br>
-
-
-  
-
-
-<h2 align="center">⭐ Feel free to explore repos and give a star if you find them interesting</h2>
+  <h2 align="center">⭐ Feel free to explore repos and give a star if you find them interesting</h2>
 
 
 
@@ -773,6 +765,11 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 <br><br>
+
+
+
+
+---
 
 
 
