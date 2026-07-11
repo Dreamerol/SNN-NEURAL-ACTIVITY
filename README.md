@@ -24,6 +24,22 @@
 <img src="https://img.shields.io/badge/Neuroscience-green?style=for-the-badge">
 <img src="https://img.shields.io/badge/HH-orange?style=for-the-badge">
 <img src="https://img.shields.io/badge/Izhikevich-blue?style=for-the-badge">
+
+</p>
+
+
+
+
+
+
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/SNN-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/AI-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/Neuroscience-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/HH-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Izhikevich-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/ActionPotential-yellow?style=for-the-badge">
 <img src="https://img.shields.io/badge/Neuromorphic-brightgreen?style=for-the-badge">
 <img src="https://img.shields.io/badge/EulerMethod-red?style=for-the-badge">
