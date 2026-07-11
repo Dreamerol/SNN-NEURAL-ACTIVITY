@@ -733,50 +733,9 @@ This project covers the following areas:
 
 
 
+
+
 <br>
-
-
-
-<p align="center">
-  <b>Author:</b> Mihaela Koseva (Михаела Косева)<br>
-  SNN • Spiking Neural Network • AI • Computational Neuroscience • Hodgkin–Huxley • Izhikevich Model • Action Potential • Spike • Spike Encoding • Spike Decoding • Neural Coding • Neuron Dynamics • Neuron Simulation • Differential Systems • Neuromorphic Computing • Brain Simulation • Machine Learning • Deep Learning • Bio-inspired AI
-</p>
-
-</div>
-
-
-
-
-
-
-<br><br>
-
-
-
-
-
-
-
-
-
-
-<div align="center">
-
-<a href="https://github.com/Dreamerol/VIZITKA" target="_blank">
-  <img 
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_MIHAELA_KOSEVA_VIZITKA_111.png"
-    alt="Vizitka"
-    width="100%"
-  />
-</a>
-
-</div>
-
-
-
-
-
-<br><br>
 
 
 
@@ -793,7 +752,10 @@ This project covers the following areas:
 
 <p style="font-size:10px; line-height:1.6; letter-spacing:0.2px;">
 
-Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engineer • Backend Engineer • Data Systems & APIs • Applied Machine Learning • Deep Learning • Neural Networks • Model Training • Data Pipelines • LLMs • Python • C++ • Java • Clojure • SQL • PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • ETL • Data Modeling • MLOps
+<b>Author:</b> Mihaela Koseva (Михаела Косева)<br>
+
+AI Engineer • Software Engineer • Data Engineer • Machine Learning Engineer • Backend Engineer • Artificial Intelligence • Machine Learning • Deep Learning • Neural Networks • Spiking Neural Networks (SNN) • Computational Neuroscience • Neuromorphic Computing • Brain-Inspired AI • Bio-inspired AI • Neural Computation • Neural Signal Processing • Neural Coding • Spike Encoding • Spike Decoding • Action Potentials • Hodgkin–Huxley Model • Izhikevich Model • Neuron Dynamics • Neural Simulation • Mathematical Modeling • Differential Equations • Dynamical Systems • Numerical Analysis • Euler Method • Python • C++ • Java • Clojure • SQL • TensorFlow • PyTorch • Scikit-learn • Pandas • NumPy • Data Pipelines • ETL • Data Modeling • REST APIs • Backend Systems • MLOps • LLMs
+
 
 </p>
 
