@@ -317,6 +317,15 @@ The Low Frequency + Chattering configuration provides a balance between temporal
   <img src="https://img.shields.io/badge/Neuromorphic-brightgreen?style=for-the-badge">
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/SNN-FF3333?style=for-the-badge&labelColor=FF3333">
+<img src="https://img.shields.io/badge/AI-8A2BE2?style=for-the-badge&labelColor=8A2BE2">
+<img src="https://img.shields.io/badge/Neuroscience-32CD32?style=for-the-badge&labelColor=32CD32">
+<img src="https://img.shields.io/badge/HH-FF8C00?style=for-the-badge&labelColor=FF8C00">
+<img src="https://img.shields.io/badge/Izhikevich-1E90FF?style=for-the-badge&labelColor=1E90FF">
+<img src="https://img.shields.io/badge/Action%20Potential-FFD700?style=for-the-badge&labelColor=FFD700">
+<img src="https://img.shields.io/badge/Neuromorphic-00C853?style=for-the-badge&labelColor=00C853">
+</p>
 ---
 
 # 🔍 Keywords and Topics
