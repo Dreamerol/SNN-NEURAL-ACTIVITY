@@ -2,11 +2,12 @@
 
 # 🧠 NEUROSCONCE SNN
 
-<img src="brainone.jpg" width="700"/>
+<img src="brainone.jpg" width="100%"/>
 
 </div>
 
-# INTRODUCTION
+
+# Introduction
 
 
 This repository explores computational neuroscience through the implementation and analysis of biologically inspired neuron models and Spiking Neural Networks (SNNs). The project focuses on simulating neuronal dynamics, processing neural action potentials, and studying how information is represented and transmitted through spikes.
