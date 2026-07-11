@@ -51,5 +51,65 @@ $$
 $$
 
 $$
+
+## Hodgkin–Huxley Model Parameters
+
+### State Variables
+
+| Symbol | Description                                           |
+| ------ | ----------------------------------------------------- |
+| $V$    | Membrane potential (mV)                               |
+| $m$    | Sodium ($\mathrm{Na}^+$) activation gating variable   |
+| $h$    | Sodium ($\mathrm{Na}^+$) inactivation gating variable |
+| $n$    | Potassium ($\mathrm{K}^+$) activation gating variable |
+
+### Electrical Parameters
+
+| Symbol                  | Description                                        |
+| ----------------------- | -------------------------------------------------- |
+| $C_m$                   | Membrane capacitance ($\mu\mathrm{F/cm^2}$)        |
+| $I_{\mathrm{ext}}$      | External applied current ($\mu\mathrm{A/cm^2}$)    |
+| $\bar{g}_{\mathrm{Na}}$ | Maximum sodium conductance ($\mathrm{mS/cm^2}$)    |
+| $\bar{g}_{\mathrm{K}}$  | Maximum potassium conductance ($\mathrm{mS/cm^2}$) |
+| $g_{\mathrm{L}}$        | Leak conductance ($\mathrm{mS/cm^2}$)              |
+| $E_{\mathrm{Na}}$       | Sodium reversal potential (mV)                     |
+| $E_{\mathrm{K}}$        | Potassium reversal potential (mV)                  |
+| $E_{\mathrm{L}}$        | Leak reversal potential (mV)                       |
+
+### Gating Functions
+
+The functions $\alpha_m(V)$, $\beta_m(V)$, $\alpha_h(V)$, $\beta_h(V)$, $\alpha_n(V)$, and $\beta_n(V)$ are voltage-dependent rate constants that determine how quickly the ion channels open and close.
+
+* $\alpha_m(V)$ – sodium channel activation rate
+* $\beta_m(V)$ – sodium channel deactivation rate
+* $\alpha_h(V)$ – sodium channel recovery (de-inactivation) rate
+* $\beta_h(V)$ – sodium channel inactivation rate
+* $\alpha_n(V)$ – potassium channel activation rate
+* $\beta_n(V)$ – potassium channel deactivation rate
+
+---
+
+## Izhikevich Model Parameters
+
+### State Variables
+
+| Symbol | Description                                               |
+| ------ | --------------------------------------------------------- |
+| $v$    | Membrane potential (mV)                                   |
+| $u$    | Membrane recovery variable representing recovery currents |
+
+### Parameters
+
+| Symbol | Description                                                    |
+| ------ | -------------------------------------------------------------- |
+| $I$    | External input current                                         |
+| $a$    | Time scale of the recovery variable                            |
+| $b$    | Sensitivity of the recovery variable to the membrane potential |
+| $c$    | Membrane potential reset value after a spike                   |
+| $d$    | Recovery variable reset increment after a spike                |
+
+Different combinations of the parameters $a$, $b$, $c$, and $d$ produce different neuronal firing patterns, such as regular spiking, fast spiking, intrinsically bursting, chattering, and low-threshold spiking neurons.
+
+
 \beta_n(V)=0.125\exp\left(-\frac{V}{80}\right)
 $$
