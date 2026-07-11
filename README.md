@@ -52,51 +52,35 @@ $$
 
 $$
 
-## Izhikevich Neuron Model
+## Izhikevich Model
 
 The Izhikevich neuron model combines biological plausibility with computational efficiency.
 
 ### Membrane Potential
 
 $$
-\frac{dv}{dt}
-=
-0.04v^2
-+
-5v
-+
-140
--
-u
-+
-I
+\frac{dv}{dt} = 0.04v^2 + 5v + 140 - u + I
 $$
 
 ### Recovery Variable
 
 $$
-\frac{du}{dt}
-=
-a(bv-u)
+\frac{du}{dt} = a(bv-u)
 $$
 
 ### Spike Reset
 
-When
+When the membrane potential reaches the spike threshold,
 
 $$
 v \ge 30\ \mathrm{mV},
 $$
 
-the state variables are reset according to
+the neuron is reset according to
 
 $$
-v \leftarrow c,
-\qquad
-u \leftarrow u+d.
+v \leftarrow c,\qquad u \leftarrow u + d
 $$
-
-The parameters $a$, $b$, $c$, and $d$ determine the firing characteristics of different neuron types.
 
 ## Hodgkin–Huxley Model Parameters
 
