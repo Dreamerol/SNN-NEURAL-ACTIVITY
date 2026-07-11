@@ -747,7 +747,7 @@ This project covers the following areas:
 
 
 
-Author: Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engineer • Data Engineer • Machine Learning Engineer • Backend Engineer • Artificial Intelligence • Machine Learning • Deep Learning • Neural Networks • Spiking Neural Networks (SNN) • Computational Neuroscience • Neuromorphic Computing • Brain-Inspired AI • Bio-inspired AI • Neural Computation • Neural Signal Processing • Neural Coding • Spike Encoding • Spike Decoding • Action Potentials • Hodgkin–Huxley Model • Izhikevich Model • Neuron Dynamics • Neural Simulation • Mathematical Modeling • Differential Equations • Dynamical Systems • Numerical Analysis • Euler Method • Python • C++ • Java • Clojure • SQL • TensorFlow • PyTorch • Scikit-learn • Pandas • NumPy • Data Pipelines • ETL • Data Modeling • REST APIs • Backend Systems • MLOps • LLMs
+Author: Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engineer • Data Engineer • Machine Learning Engineer • Backend Engineer • Artificial Intelligence • Machine Learning • Deep Learning • Neural Networks • Spiking Neural Networks (SNN) • Computational Neuroscience • Neuromorphic Computing • Brain-Inspired AI • Bio-inspired AI • Neural Computation • Neural Signal Processing • Neural Coding • Spike Encoding • Spike Decoding • Action Potentials • Hodgkin–Huxley Model • Izhikevich Model • Neuron Dynamics • Neural Simulation • Differential Equations • Dynamical Systems • Euler Method • Python • Java • SQL • TensorFlow • PyTorch • Scikit-learn • Pandas • NumPy • Data Pipelines • ETL • Data Modeling • APIs • MLOps • LLMs
 
 
 </p>
