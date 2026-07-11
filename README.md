@@ -14,20 +14,20 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/SNN-8A2BE2?style=for-the-badge">
-<img src="https://img.shields.io/badge/AI-6C63FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/Neuroscience-00B8D9?style=for-the-badge">
-<img src="https://img.shields.io/badge/Hodgkin--Huxley-D4AF37?style=for-the-badge">
+<img src="https://img.shields.io/badge/SNN-7B61FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/AI-00C2FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Neuroscience-9D4EDD?style=for-the-badge">
+<img src="https://img.shields.io/badge/HH-C9A227?style=for-the-badge">
 <img src="https://img.shields.io/badge/Izhikevich-4F8CFF?style=for-the-badge">
-<img src="https://img.shields.io/badge/ActionPotential-F5C542?style=for-the-badge">
-<img src="https://img.shields.io/badge/Neuromorphic-00C2A8?style=for-the-badge">
-<img src="https://img.shields.io/badge/EulerMethod-9D4EDD?style=for-the-badge">
-<img src="https://img.shields.io/badge/DifferentialSystems-6C63FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/NeuronDynamics-00B8D9?style=for-the-badge">
+<img src="https://img.shields.io/badge/ActionPotential-FFB703?style=for-the-badge">
+<img src="https://img.shields.io/badge/Neuromorphic-00BFA6?style=for-the-badge">
+<img src="https://img.shields.io/badge/EulerMethod-8A2BE2?style=for-the-badge">
+<img src="https://img.shields.io/badge/DifferentialSystems-5E60CE?style=for-the-badge">
+<img src="https://img.shields.io/badge/NeuronDynamics-00A6FB?style=for-the-badge">
 <img src="https://img.shields.io/badge/SpikeEncoding-D4AF37?style=for-the-badge">
-<img src="https://img.shields.io/badge/SpikeDecoding-4F8CFF?style=for-the-badge">
-<img src="https://img.shields.io/badge/NeuralCoding-F5C542?style=for-the-badge">
-<img src="https://img.shields.io/badge/BrainSimulation-00C2A8?style=for-the-badge">
+<img src="https://img.shields.io/badge/SpikeDecoding-3A86FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/NeuralCoding-FDCB6E?style=for-the-badge">
+<img src="https://img.shields.io/badge/BrainSimulation-06D6A0?style=for-the-badge">
 
 </p>
 
