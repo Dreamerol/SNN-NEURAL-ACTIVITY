@@ -732,6 +732,9 @@ This project covers the following areas:
 ---
 
 
+<br>
+
+
 
 <h2 align="center">⭐ Feel free to explore repos and give a star if you find them interesting</h2>
 
@@ -759,12 +762,7 @@ Author: Mihaela Koseva (Михаела Косева) • AI Engineer • Softwar
 
 
 
-<br>
-
-
-
-
-<br>
+<br><br>
 
 
 
