@@ -292,15 +292,19 @@ A possible explanation is that chattering neurons generate groups of closely spa
 The Low Frequency + Chattering configuration provides a balance between temporal precision and spike efficiency. The lower firing rate prevents unnecessary spike generation, while the chattering behavior preserves important information through burst-based communication. This balance leads to a more accurate reconstruction of the original function and the lowest MSE value.
 
 # 🧠 Spiking Neural Network Simulation: HH & Izhikevich Models
+# 🧠 Spiking Neural Network Simulation: HH & Izhikevich Models
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![SNN](https://img.shields.io/badge/Spiking%20Neural%20Network-SNN-red)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-AI-purple)
-![Neuroscience](https://img.shields.io/badge/Computational-Neuroscience-green)
-![Neuron Models](https://img.shields.io/badge/Neuron%20Models-HH%20%7C%20Izhikevich-orange)
-![Action Potential](https://img.shields.io/badge/Neural%20Activity-Action%20Potential-yellow)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Enabled-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/Spiking%20Neural%20Network-SNN-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-AI-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/Computational-Neuroscience-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/Neuron%20Models-HH%20%7C%20Izhikevich-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Action%20Potential-Neural%20Activity-yellow?style=for-the-badge">
+<img src="https://img.shields.io/badge/Neuromorphic-Computing-brightgreen?style=for-the-badge">
+
+</p>
 ---
 
 # 🔍 Keywords and Topics
