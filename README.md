@@ -2,7 +2,7 @@
 
 # 🧠 NEUROSCONCE SNN
 
-<img src="brainone.jpg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/brainone.jpg" width="100%"/>
 
 </div>
 
