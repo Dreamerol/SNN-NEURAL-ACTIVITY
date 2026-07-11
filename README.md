@@ -50,7 +50,6 @@ $$
 \alpha_n(V)=\frac{0.01(10-V)}{\exp\left(\frac{10-V}{10}\right)-1}
 $$
 
-$$
 
 ## Izhikevich Model
 
@@ -143,3 +142,24 @@ Different combinations of the parameters $a$, $b$, $c$, and $d$ produce differen
 
 \beta_n(V)=0.125\exp\left(-\frac{V}{80}\right)
 $$
+
+
+The Hodgkin–Huxley (HH) model is more biologically accurate because it simulates ion channels and membrane dynamics, but it is slower and more computationally expensive due to its complexity. The Izhikevich model simplifies neuronal behavior, making it much faster and suitable for large-scale Spiking Neural Networks while still reproducing different firing patterns.
+
+## Action Potential
+
+An action potential is a rapid change in the membrane potential of a neuron that allows it to transmit information through electrical signals. It is generated when the membrane potential reaches a threshold, causing voltage-gated ion channels to open and produce a sequence of voltage changes.
+
+* **Resting potential:** The neuron is normally around **-70 mV**, maintained by ion gradients and membrane pumps. The inside of the neuron is more negative compared to the outside.
+
+* **Depolarization:** When a stimulus reaches the threshold, **sodium ($Na^+$) channels open**, allowing sodium ions to enter the cell. This makes the membrane potential more positive and causes the rising phase of the action potential.
+
+* **Peak:** The membrane potential reaches its maximum value (around **+30 mV**). At this point, sodium channels become inactive and potassium ($K^+$) channels begin to open.
+
+* **Repolarization:** Potassium ions leave the cell through open potassium channels, causing the membrane potential to become negative again.
+
+* **Hyperpolarization:** Potassium channels remain open slightly longer than needed, causing the membrane potential to drop below the resting potential (more negative than -70 mV). This period reduces the probability of generating another action potential.
+
+* **Return to resting potential:** Ion channels return to their normal state, and the membrane potential stabilizes back to the resting level.
+
+This process allows neurons to encode and transmit information using the timing and frequency of spikes.
