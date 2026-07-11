@@ -3,7 +3,7 @@
 # 🧠 𝗡𝗘𝗨𝗥𝗢𝗦𝗖𝗜𝗘𝗡𝗖𝗘 𝗦𝗡𝗡
 
 
-
+<br>
 
 
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/NN_23.JPG" width="100%"/>
