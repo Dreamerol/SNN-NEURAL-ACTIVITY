@@ -243,7 +243,7 @@ $$
 
 
 
-<br>
+
 
 
 ## Hodgkin–Huxley Model Parameters
