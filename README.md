@@ -211,6 +211,8 @@ $$
 <br>
 
 
+<br>
+
 
 <p align="center">
 
@@ -225,7 +227,6 @@ $$
 <img src="https://img.shields.io/badge/DifferentialSystems-purple?style=for-the-badge">
 <img src="https://img.shields.io/badge/NeuronDynamics-green?style=for-the-badge">
 <img src="https://img.shields.io/badge/SpikeEncoding-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/SpikeDecoding-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/NeuralCoding-yellow?style=for-the-badge">
 <img src="https://img.shields.io/badge/BrainSimulation-brightgreen?style=for-the-badge">
 
@@ -233,6 +234,10 @@ $$
 
 
 </div>
+
+
+
+<br>
 
 
 
@@ -333,6 +338,11 @@ $$
 The Hodgkin–Huxley (HH) model is more biologically accurate because it simulates ion channels and membrane dynamics, but it is slower and more computationally expensive due to its complexity. The Izhikevich model simplifies neuronal behavior, making it much faster and suitable for large-scale Spiking Neural Networks while still reproducing different firing patterns.
 
 
+
+
+<br>
+
+
 <p align="center">
 
 <img src="https://img.shields.io/badge/SNN-red?style=for-the-badge">
@@ -346,12 +356,17 @@ The Hodgkin–Huxley (HH) model is more biologically accurate because it simulat
 <img src="https://img.shields.io/badge/DifferentialSystems-purple?style=for-the-badge">
 <img src="https://img.shields.io/badge/NeuronDynamics-green?style=for-the-badge">
 <img src="https://img.shields.io/badge/SpikeEncoding-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/SpikeDecoding-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/NeuralCoding-yellow?style=for-the-badge">
 <img src="https://img.shields.io/badge/BrainSimulation-brightgreen?style=for-the-badge">
 
 </p>
 
+
+</div>
+
+
+
+<br>
 ## Action Potential
 
 An action potential is a rapid change in the membrane potential of a neuron that allows it to transmit information through electrical signals. It is generated when the membrane potential reaches a threshold, causing voltage-gated ion channels to open and produce a sequence of voltage changes.
@@ -480,7 +495,10 @@ where $y_i$ is the desired output and $\hat{y_i}$ is the reconstructed SNN outpu
 The performance of the different Izhikevich neuron types was evaluated using the Mean Squared Error (MSE) loss:
 
 
+
+
 <br>
+
 
 
 | Neuron Type                 | MSE    |
@@ -490,7 +508,13 @@ The performance of the different Izhikevich neuron types was evaluated using the
 | Chattering (CH)             | 1.8198 |
 | Low Frequency + Chattering  | 1.7633 |
 
+
+
+
 <br>
+
+
+
 
 
 The results show that the **Chattering neuron provides the lowest error among the standard neuron types**, achieving better reconstruction accuracy compared to Regular Spiking and Intrinsically Bursting neurons. The combination of **Low Frequency and Chattering behavior achieves the lowest MSE**, indicating that this firing pattern provides the most suitable spike representation for the given task.
@@ -498,6 +522,9 @@ The results show that the **Chattering neuron provides the lowest error among th
 A possible explanation is that chattering neurons generate groups of closely spaced spikes, allowing them to represent detailed temporal information in the input signal. However, using an excessively high firing frequency can negatively affect performance because it may introduce redundant spikes, increase noise in the spike representation, and make decoding less accurate. A very high spike rate does not necessarily contain more useful information and can reduce the efficiency of the encoding process.
 
 The Low Frequency + Chattering configuration provides a balance between temporal precision and spike efficiency. The lower firing rate prevents unnecessary spike generation, while the chattering behavior preserves important information through burst-based communication. This balance leads to a more accurate reconstruction of the original function and the lowest MSE value.
+
+
+<br>
 
 
 <p align="center">
@@ -513,11 +540,17 @@ The Low Frequency + Chattering configuration provides a balance between temporal
 <img src="https://img.shields.io/badge/DifferentialSystems-purple?style=for-the-badge">
 <img src="https://img.shields.io/badge/NeuronDynamics-green?style=for-the-badge">
 <img src="https://img.shields.io/badge/SpikeEncoding-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/SpikeDecoding-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/NeuralCoding-yellow?style=for-the-badge">
 <img src="https://img.shields.io/badge/BrainSimulation-brightgreen?style=for-the-badge">
 
 </p>
+
+
+</div>
+
+
+
+<br>
 
 
 
@@ -595,8 +628,8 @@ This project covers the following areas:
 
   
 
----
 
+---
 
 
 <br>
