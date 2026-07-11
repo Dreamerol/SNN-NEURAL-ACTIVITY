@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 NEUROSCONCE SNN
+# 🧠 <b>NEUROSCIENCE SNN</b>
 
 
 
