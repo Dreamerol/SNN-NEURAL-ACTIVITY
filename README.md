@@ -8,24 +8,6 @@ The repository includes implementations of the **Hodgkin–Huxley (HH)** and **I
 
 The project also investigates different neuron firing patterns, analyzes the characteristics of generated action potentials, and demonstrates how SNNs can process spike-based information. Together, these components provide a foundation for studying neural computation, biologically plausible learning, and neural signal processing.
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/SNN-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/AI-purple?style=for-the-badge">
-<img src="https://img.shields.io/badge/Neuroscience-green?style=for-the-badge">
-<img src="https://img.shields.io/badge/HH-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/Izhikevich-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/ActionPotential-yellow?style=for-the-badge">
-<img src="https://img.shields.io/badge/Neuromorphic-brightgreen?style=for-the-badge">
-<img src="https://img.shields.io/badge/EulerMethod-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/DifferentialSystems-purple?style=for-the-badge">
-<img src="https://img.shields.io/badge/NeuronDynamics-green?style=for-the-badge">
-<img src="https://img.shields.io/badge/SpikeEncoding-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/SpikeDecoding-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/NeuralCoding-yellow?style=for-the-badge">
-<img src="https://img.shields.io/badge/BrainSimulation-brightgreen?style=for-the-badge">
-
-</p>
 
 ## Hodgkin–Huxley Model
 
@@ -119,6 +101,25 @@ $$
 v \leftarrow c,\qquad u \leftarrow u + d
 $$
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/SNN-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/AI-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/Neuroscience-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/HH-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Izhikevich-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/ActionPotential-yellow?style=for-the-badge">
+<img src="https://img.shields.io/badge/Neuromorphic-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/EulerMethod-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/DifferentialSystems-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/NeuronDynamics-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/SpikeEncoding-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/SpikeDecoding-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/NeuralCoding-yellow?style=for-the-badge">
+<img src="https://img.shields.io/badge/BrainSimulation-brightgreen?style=for-the-badge">
+
+</p>
+
 ## Hodgkin–Huxley Model Parameters
 
 ### State Variables
@@ -178,7 +179,6 @@ The functions $\alpha_m(V)$, $\beta_m(V)$, $\alpha_h(V)$, $\beta_h(V)$, $\alpha_
 Different combinations of the parameters $a$, $b$, $c$, and $d$ produce different neuronal firing patterns, such as regular spiking, fast spiking, intrinsically bursting, chattering, and low-threshold spiking neurons.
 
 $$
-
 
 The Hodgkin–Huxley (HH) model is more biologically accurate because it simulates ion channels and membrane dynamics, but it is slower and more computationally expensive due to its complexity. The Izhikevich model simplifies neuronal behavior, making it much faster and suitable for large-scale Spiking Neural Networks while still reproducing different firing patterns.
 
