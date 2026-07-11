@@ -116,7 +116,10 @@ A possible explanation is that chattering neurons generate groups of closely spa
 
 The Low Frequency + Chattering configuration provides a balance between temporal precision and spike efficiency. The lower firing rate prevents unnecessary spike generation, while the chattering behavior preserves important information through burst-based communication. This balance leads to a more accurate reconstruction of the original function and the lowest MSE value.
 
+
+
 <br>
+
 
 
 \frac{dn}{dt} = \alpha_n(V)(1-n) - \beta_n(V)n  ,  where:
@@ -148,7 +151,9 @@ $$
 $$
 
 
+
 <br>
+
 
 
 ## Izhikevich Model
@@ -157,16 +162,21 @@ The Izhikevich neuron model combines biological plausibility with computational 
 
 ### Membrane Potential
 
+
 <br>
+
 
 $$
 \frac{dv}{dt} = 0.04v^2 + 5v + 140 - u + I
 $$
 
+
 <br>
 
 
+
 ### Recovery Variable
+
 
 <br>
 
@@ -178,9 +188,11 @@ $$
 
 <br>
 
+
 ### Spike Reset
 
 When the membrane potential reaches the spike threshold,
+
 
 
 <br>
@@ -197,7 +209,9 @@ v \leftarrow c,\qquad u \leftarrow u + d
 $$
 
 
+
 <br>
+
 
 
 <p align="center">
