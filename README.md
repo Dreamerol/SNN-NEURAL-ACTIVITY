@@ -294,15 +294,16 @@ The Low Frequency + Chattering configuration provides a balance between temporal
 # 🧠 Spiking Neural Network Simulation: HH & Izhikevich Models
 # 🧠 Spiking Neural Network Simulation: HH & Izhikevich Models
 
+
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python">
-<img src="https://img.shields.io/badge/Spiking%20Neural%20Network-SNN-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-AI-purple?style=for-the-badge">
-<img src="https://img.shields.io/badge/Computational-Neuroscience-green?style=for-the-badge">
-<img src="https://img.shields.io/badge/Neuron%20Models-HH%20%7C%20Izhikevich-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/Action%20Potential-Neural%20Activity-yellow?style=for-the-badge">
-<img src="https://img.shields.io/badge/Neuromorphic-Computing-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/SNN-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/AI-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/Neuroscience-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/HH-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Izhikevich-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/ActionPotential-yellow?style=for-the-badge">
+<img src="https://img.shields.io/badge/Neuromorphic-brightgreen?style=for-the-badge">
 
 </p>
 ---
