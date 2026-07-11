@@ -385,7 +385,11 @@ The Hodgkin–Huxley (HH) model is more biologically accurate because it simulat
 
 
 
-<br>
+<br><br>
+
+
+
+
 ## Action Potential
 
 An action potential is a rapid change in the membrane potential of a neuron that allows it to transmit information through electrical signals. It is generated when the membrane potential reaches a threshold, causing voltage-gated ion channels to open and produce a sequence of voltage changes.
