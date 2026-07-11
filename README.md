@@ -736,7 +736,59 @@ This project covers the following areas:
 
 
 
-<br>
+<div align="center">
+  <a href="https://github.com/Dreamerol" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_77.PNG"
+      width="100%"
+      alt="Mihaela Koseva Banner"
+    />
+  </a>
+</div>
+
+
+
+
+
+<br><br>
+
+
+
+
+
+<h2 align="center">⭐ Feel free to explore repos and give a star if you find them interesting</h2>
+
+
+
+
+<div align="center">
+
+<p style="font-size:10px; line-height:1.6; letter-spacing:0.2px;">
+
+
+
+Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engineer • Applied ML • Deep Learning • Neural Networks • Spiking Neural Networks (SNN) • Computational Neuroscience • Neuromorphic Computing • Brain-Inspired AI • Bio-inspired AI • Neural Computation • Neural Signal Processing • Neural Coding • Spike Encoding • Spike Decoding • Action Potentials • Hodgkin–Huxley Model • Izhikevich Model • Neuron Dynamics • Neural Simulation • Differential Equations • Dynamical Systems • Euler Method • Python • Java • SQL • TensorFlow • PyTorch • Scikit-learn • Pandas • NumPy • Data Pipelines • ETL • Data Modeling • APIs • MLOps • LLMs
+
+
+</p>
+
+<p style="font-size:10px; opacity:0.7;">
+🔗 Explore more on GitHub:
+<a href="https://github.com/Dreamerol">Mihaela Koseva (Михаела Косева) • GitHub • Dreamerol</a>
+</p>
+
+</div>
+
+
+
+---
+
+
+
+
+
+<br><br>
+
 
 
 
@@ -789,62 +841,7 @@ This project covers the following areas:
 
 
 
-<br><br>
-
-
-
-
-
-<div align="center">
-  <a href="https://github.com/Dreamerol" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_77.PNG"
-      width="100%"
-      alt="Mihaela Koseva Banner"
-    />
-  </a>
-</div>
-
-
-
-
-
-<br><br>
-
-
-
-
-
-<h2 align="center">⭐ Feel free to explore repos and give a star if you find them interesting</h2>
-
-
-
-
-<div align="center">
-
-<p style="font-size:10px; line-height:1.6; letter-spacing:0.2px;">
-
-
-
-Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engineer • Applied ML • Deep Learning • Neural Networks • Spiking Neural Networks (SNN) • Computational Neuroscience • Neuromorphic Computing • Brain-Inspired AI • Bio-inspired AI • Neural Computation • Neural Signal Processing • Neural Coding • Spike Encoding • Spike Decoding • Action Potentials • Hodgkin–Huxley Model • Izhikevich Model • Neuron Dynamics • Neural Simulation • Differential Equations • Dynamical Systems • Euler Method • Python • Java • SQL • TensorFlow • PyTorch • Scikit-learn • Pandas • NumPy • Data Pipelines • ETL • Data Modeling • APIs • MLOps • LLMs
-
-
-</p>
-
-<p style="font-size:10px; opacity:0.7;">
-🔗 Explore more on GitHub:
-<a href="https://github.com/Dreamerol">Mihaela Koseva (Михаела Косева) • GitHub • Dreamerol</a>
-</p>
-
-</div>
-
-
-
-
-
-
-
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 
 
