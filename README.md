@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<a href="https://github.com/Dreamerol/AI-DATA-BUILDS" target="_blank">
+<a href="https://github.com/Dreamerol" target="_blank">
   <img 
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/NN_23.JPG" 
     width="100%"
