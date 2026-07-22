@@ -338,8 +338,6 @@ are voltage-dependent rate constants that determine how quickly the ion channels
 
 Different combinations of the parameters $a$, $b$, $c$, and $d$ produce different neuronal firing patterns, such as regular spiking, fast spiking, intrinsically bursting, chattering, and low-threshold spiking neurons.
 
-$$
-
 The Hodgkin–Huxley (HH) model is more biologically accurate because it simulates ion channels and membrane dynamics, but it is slower and more computationally expensive due to its complexity. The Izhikevich model simplifies neuronal behavior, making it much faster and suitable for large-scale Spiking Neural Networks while still reproducing different firing patterns.
 
 
