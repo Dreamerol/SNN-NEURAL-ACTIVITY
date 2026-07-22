@@ -281,10 +281,8 @@ $$
 
 ### Gating Functions
 
-The functions $\alpha_m(V)$, $\beta_m(V)$, $\alpha_h(V)$, $\beta_h(V)$, $\alpha_n(V)$, and $\beta_n(V)$ are voltage-dependent rate constants that determine how quickly the ion channels open and close.
-
-The functions $\alpha_m(V)$, $\beta_m(V)$, $\alpha_h(V)$, $\beta_h(V)$, $\alpha_n(V)$,<br>
-and $\beta_n(V)$ are voltage-dependent rate constants that determine how quickly the ion channels open and close.
+The functions $\alpha_m(V)$, $\beta_m(V)$, $\alpha_h(V)$, $\beta_h(V)$, $\alpha_n(V)$, and $\beta_n(V)$,<br>
+are voltage-dependent rate constants that determine how quickly the ion channels open and close.
 
 * $\alpha_m(V)$ – sodium channel activation rate
 * $\beta_m(V)$ – sodium channel deactivation rate
