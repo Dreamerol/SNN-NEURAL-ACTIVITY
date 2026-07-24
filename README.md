@@ -17,9 +17,10 @@
   <img 
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/NN_23.JPG" 
     width="100%"
-    alt="AI DATA BUILDS"
-  />
-</a>
+    alt="Mihaela Koseva, Михаела Косева - Neuroscience Spiking Neural Networks, Software Engineer, AI Engineer, Applied Machine Learning"
+    />
+  </a>
+
 
 </div>
 
