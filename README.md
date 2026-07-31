@@ -27,35 +27,31 @@
 
 
 
-<br><br>
 
+<div align="center">
 
+<a href="https://github.com/Dreamerol/CARDFOLIO">
 
+<img
+src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECH%20STACK%20333.png"
+width="100%"
+alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
+/>
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/SNN-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/AI-purple?style=for-the-badge">
-<img src="https://img.shields.io/badge/Neuroscience-green?style=for-the-badge">
-<img src="https://img.shields.io/badge/HH-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/Izhikevich-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/ActionPotential-yellow?style=for-the-badge">
-<img src="https://img.shields.io/badge/Neuromorphic-brightgreen?style=for-the-badge">
-<img src="https://img.shields.io/badge/EulerMethod-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/DifferentialSystems-purple?style=for-the-badge">
-<img src="https://img.shields.io/badge/NeuronDynamics-green?style=for-the-badge">
-<img src="https://img.shields.io/badge/SpikeEncoding-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/NeuralCoding-yellow?style=for-the-badge">
-<img src="https://img.shields.io/badge/BrainSimulation-brightgreen?style=for-the-badge">
-
-</p>
-
+</a>
 
 </div>
 
 
 
+
+
 <br>
+
+
+
+
+
 
 
 
@@ -196,36 +192,7 @@ $$
 
 
 
-
-
 ---
-
-
-
-
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/SNN-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/AI-purple?style=for-the-badge">
-<img src="https://img.shields.io/badge/Neuroscience-green?style=for-the-badge">
-<img src="https://img.shields.io/badge/HH-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/Izhikevich-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/ActionPotential-yellow?style=for-the-badge">
-<img src="https://img.shields.io/badge/Neuromorphic-brightgreen?style=for-the-badge">
-<img src="https://img.shields.io/badge/EulerMethod-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/DifferentialSystems-purple?style=for-the-badge">
-<img src="https://img.shields.io/badge/NeuronDynamics-green?style=for-the-badge">
-<img src="https://img.shields.io/badge/SpikeEncoding-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/NeuralCoding-yellow?style=for-the-badge">
-<img src="https://img.shields.io/badge/BrainSimulation-brightgreen?style=for-the-badge">
-
-</p>
-
-
-</div>
-
-
 
 
 
@@ -350,27 +317,6 @@ The Hodgkin–Huxley (HH) model is more biologically accurate because it simulat
 
 
 ---
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/SNN-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/AI-purple?style=for-the-badge">
-<img src="https://img.shields.io/badge/Neuroscience-green?style=for-the-badge">
-<img src="https://img.shields.io/badge/HH-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/Izhikevich-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/ActionPotential-yellow?style=for-the-badge">
-<img src="https://img.shields.io/badge/Neuromorphic-brightgreen?style=for-the-badge">
-<img src="https://img.shields.io/badge/EulerMethod-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/DifferentialSystems-purple?style=for-the-badge">
-<img src="https://img.shields.io/badge/NeuronDynamics-green?style=for-the-badge">
-<img src="https://img.shields.io/badge/SpikeEncoding-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/NeuralCoding-yellow?style=for-the-badge">
-<img src="https://img.shields.io/badge/BrainSimulation-brightgreen?style=for-the-badge">
-
-</p>
-
-
-</div>
 
 
 
@@ -605,30 +551,6 @@ The Low Frequency + Chattering configuration provides a balance between temporal
 
 
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/SNN-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/AI-purple?style=for-the-badge">
-<img src="https://img.shields.io/badge/Neuroscience-green?style=for-the-badge">
-<img src="https://img.shields.io/badge/HH-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/Izhikevich-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/ActionPotential-yellow?style=for-the-badge">
-<img src="https://img.shields.io/badge/Neuromorphic-brightgreen?style=for-the-badge">
-<img src="https://img.shields.io/badge/EulerMethod-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/DifferentialSystems-purple?style=for-the-badge">
-<img src="https://img.shields.io/badge/NeuronDynamics-green?style=for-the-badge">
-<img src="https://img.shields.io/badge/SpikeEncoding-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/NeuralCoding-yellow?style=for-the-badge">
-<img src="https://img.shields.io/badge/BrainSimulation-brightgreen?style=for-the-badge">
-
-</p>
-
-
-</div>
-
-
-
-
 
 <br><br>
 
@@ -714,12 +636,25 @@ This project covers the following areas:
 
 
 
-  <br>
 
-  
-  
 
-  <h2 align="center">⭐ Feel free to explore repos and give a star if you find them interesting</h2>
+<br><br>
+
+
+
+
+
+
+
+
+
+
+<h2 align="center">⭐ Feel free to explore repos and give a star if you find them interesting</h2>
+
+
+
+
+
 
 
 
@@ -728,16 +663,16 @@ This project covers the following areas:
 
 <p style="font-size:10px; line-height:1.6; letter-spacing:0.2px;">
 
-
-
-Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engineer • Applied ML • Deep Learning • Neural Networks • Spiking Neural Networks (SNN) • Computational Neuroscience • Neuromorphic Computing • Brain-Inspired AI • Bio-inspired AI • Neural Computation • Neural Signal Processing • Neural Coding • Spike Encoding • Spike Decoding • Action Potentials • Hodgkin–Huxley Model • Izhikevich Model • Neuron Dynamics • Neural Simulation • Differential Equations • Dynamical Systems • Euler Method • Python • Java • SQL • TensorFlow • PyTorch • Scikit-learn • Pandas • NumPy • Data Pipelines • ETL • Data Modeling • APIs • MLOps • LLMs
-
-
+Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • AI Engineer • Software Engineer • Backend Engineer • Data Systems & APIs • Applied Machine Learning • Deep Learning • Neural Networks • Model Training • Data Pipelines • Data Science • LLMs • Python • C++ • Java • Clojure • SQL • PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • ETL • Data Modeling • MLOps
 </p>
 
 <p style="font-size:10px; opacity:0.7;">
-🔗 Explore more on GitHub:
-<a href="https://github.com/Dreamerol">Mihaela Koseva (Михаела Косева) • GitHub • Dreamerol</a>
+© 2026 Mihaela Koseva (Михаела Косева) • Софийски университет • Original portfolio design.
+</p>
+
+<p style="font-size:10px; opacity:0.7;">
+🔗 Explore on GitHub:
+<a href="https://github.com/Dreamerol">Mihaela Koseva (Михаела Косева) • Software Engineer • AI • ML • GitHub • Dreamerol</a>
 </p>
 
 </div>
@@ -745,7 +680,16 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 
-<br><br>
+
+
+
+
+
+
+
+<br><br><br>
+
+
 
 
 
@@ -756,7 +700,7 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
     <img
       src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_77.PNG"
       width="100%"
-      alt="Mihaela Koseva Banner"
+      alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
     />
   </a>
 </div>
@@ -765,7 +709,23 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 
-<br><br>
+
+
+
+
+<br><br><br>
+
+
+
+
+
+
+
+
+---
+
+
+
 
 
 
@@ -776,31 +736,40 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 <td>
 <a href="https://www.linkedin.com/in/mihaela-koseva-software-engineer" target="_blank">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20LINKEDIN.png" height="130">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20LINKEDIN.png" height="130"
+alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL">
 </a>
 </td>
+
 
 <td>
 <a href="https://github.com/Dreamerol" target="_blank">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20GITHUB.png" height="130">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20GITHUB.png" height="130"
+alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL">
 </a>
 </td>
+
 
 <td>
 <a href="https://github.com/Dreamerol/CARDFOLIO" target="_blank">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20REPOSITORIES.png" height="130">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20REPOSITORIES.png" height="130"
+alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL">
 </a>
 </td>
+
 
 <td>
 <a href="https://github.com/Dreamerol/ALLSTATS" target="_blank">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20STATS.png" height="130">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20STATS.png" height="130"
+alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL">
 </a>
 </td>
 
+
 <td>
 <a href="https://github.com/Dreamerol/RESUME" target="_blank">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20RESUME.png" height="130">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20RESUME.png" height="130"
+alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL">
 </a>
 </td>
 
@@ -811,10 +780,7 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 
-
-
-
-<br><br><br><br>
+<br><br><br><br><br>
 
 
 
