@@ -23,7 +23,7 @@
   <img 
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/NN_23.JPG" 
     width="100%"
-    alt="Mihaela Koseva, Михаела Косева - Neuroscience Spiking Neural Networks, Software Engineer, AI Engineer, Applied Machine Learning"
+    alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva, Михаела Косева - Neuroscience Spiking Neural Networks, Software Engineer, AI Engineer, Applied Machine Learning"
     />
   </a>
 
