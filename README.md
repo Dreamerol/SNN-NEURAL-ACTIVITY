@@ -1,4 +1,4 @@
-
+<div align="center">
 
 # 🧠 [𝗡𝗘𝗨𝗥𝗢𝗦𝗖𝗜𝗘𝗡𝗖𝗘 • 𝗦𝗣𝗜𝗞𝗜𝗡𝗚 𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦](https://github.com/Dreamerol/ALLSTATS)
 
@@ -7,11 +7,6 @@
   width="100%"
   alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva, Михаела Косева, Neuroscience, Spiking Neural Networks, Neural Networks, Machine Learning"
 />
-
-
-<div align="center">
-
-# 🧠 𝗡𝗘𝗨𝗥𝗢𝗦𝗖𝗜𝗘𝗡𝗖𝗘 • 𝗦𝗣𝗜𝗞𝗜𝗡𝗚 𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦
 
 
 </div>
