@@ -738,16 +738,12 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
   <img 
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA-DREAMEROL.png"
     width="100%"
-    alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend, REST APIs, Python, C++, Java, SQL, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva, Михаела Косева, Git, GitHub: Dreamerol, github.com/DreamerolNeuroscience, Spiking Neural Networks, Neural Networks, Machine Learning"
+    alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend, REST APIs, Python, C++, Java, SQL, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva, Михаела Косева, Git, GitHub: Dreamerol, github.com/Dreamerol, Neuroscience, Spiking Neural Networks, Neural Networks, Machine Learning"
   />
 </a>
 
 </div>
 
-
-
-
-Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Sofia • AI Engineer • Software Engineer • Backend • Data Systems & APIs • Applied Machine Learning • Neural Networks • Model Training • Data Pipelines • Data Science • LLMs • Python • C++ • Java • SQL • PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • ETL • Data Modeling • MLOps • Git • GitHub: Dreamerol • github.com/Dreamerol
 
 
 
