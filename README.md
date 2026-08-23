@@ -672,18 +672,21 @@ This project covers the following areas:
 
 
 
+
+
+
+
 <div align="center">
 
 <p style="font-size:10px; line-height:1.6; letter-spacing:0.2px;">
 
 
-Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Sofia • AI Engineer • Software Engineer • Data Systems & APIs • Applied Machine Learning • Data Science • Python • C++ • Java • Clojure • SQL • PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • ETL • Data Modeling • Statistical Modeling • Deep Learning • Neural Networks • Model Training • System Design • Algorithms • Data Structures • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Sofia • Git • GitHub: Dreamerol • github.com/Dreamerol
 
-
+Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer • Software Engineer • Backend • Data Systems & APIs • Applied Machine Learning • Neural Networks • Model Training • Data Science • LLMs • Python • C++ • Java • SQL • PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • ETL • Data Modeling • MLOps • Git • GitHub: Dreamerol
 </p>
 
 <p style="font-size:10px; opacity:0.7;">
-© 2026 Mihaela Koseva (Михаела Косева) • Sofia University • Original design, implementation, analysis and documentation.
+© 2026 Mihaela Koseva (Михаела Косева) • Софийски университет • Original portfolio design.
 </p>
 
 <p style="font-size:10px; opacity:0.7;">
@@ -692,6 +695,7 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 </p>
 
 </div>
+
 
 
 
