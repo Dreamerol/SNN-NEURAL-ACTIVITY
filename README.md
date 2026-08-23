@@ -683,7 +683,7 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 </p>
 
 <p style="font-size:10px; opacity:0.7;">
-© 2026 Mihaela Koseva (Михаела Косева) • Софийски университет • Original design • Original implementation, analysis and documentation.
+© 2026 Mihaela Koseva (Михаела Косева) • Sofia University • Original design, implementation, analysis and documentation.
 </p>
 
 <p style="font-size:10px; opacity:0.7;">
@@ -692,8 +692,6 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 </p>
 
 </div>
-
-
 
 
 
