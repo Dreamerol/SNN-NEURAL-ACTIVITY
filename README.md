@@ -883,14 +883,6 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 
 
 
----
-
-
-
-
-
-
-
 
 <table align="center" cellspacing="0" cellpadding="2">
 <tr>
@@ -941,7 +933,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
 
