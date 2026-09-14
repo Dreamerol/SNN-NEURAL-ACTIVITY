@@ -212,6 +212,17 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
+<div align="LEFT">
+
+
+
+<div align="LEFT">
+
+
+
+
+
+
 
 <br><br>
 
@@ -792,7 +803,10 @@ This project covers the following areas:
 
 
 
+</div>
 
+
+</div>
 
 
 
