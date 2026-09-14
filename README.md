@@ -930,12 +930,14 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 </td>
 
 
+
 <td>
 <a href="https://github.com/Dreamerol" target="_blank">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20GITHUB.png" height="130"
 alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL">
 </a>
 </td>
+
 
 
 <td>
@@ -946,12 +948,14 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 </td>
 
 
+
 <td>
 <a href="https://github.com/Dreamerol/ALLSTATS" target="_blank">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20STATS.png" height="130"
 alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL">
 </a>
 </td>
+
 
 
 <td>
