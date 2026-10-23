@@ -717,8 +717,6 @@ A possible explanation is that chattering neurons generate groups of closely spa
 The Low Frequency + Chattering configuration provides a balance between temporal precision and spike efficiency. The lower firing rate prevents unnecessary spike generation, while the chattering behavior preserves important information through burst-based communication. This balance leads to a more accurate reconstruction of the original function and the lowest MSE value.
 
 
-<br>
-
 
 
 
@@ -811,7 +809,7 @@ This project covers the following areas:
 
 
 
-<br><br><br>
+<br>
 
 
 
