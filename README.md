@@ -486,10 +486,6 @@ The Hodgkin–Huxley (HH) model is more biologically accurate because it simulat
 
 
 
-<br>
-
-
-
 
 ---
 
@@ -809,11 +805,6 @@ This project covers the following areas:
 
 
 
-<br>
-
-
-
- 
  
 
 ---
